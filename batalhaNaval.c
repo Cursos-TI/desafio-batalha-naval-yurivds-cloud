@@ -3,7 +3,7 @@
 #define TAM 10   // tamanho do tabuleiro 10x10
 
 int main() {
-    int tabuleiro[TAM][TAM] = {0};  // inicializa o tabuleiro com0
+    int tabuleiro[TAM][TAM] = {0};  // inicializa o tabuleiro com 0
 
     // --- Definição manual dos navios ---
     // Navio vertical (3 posições)
